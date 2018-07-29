@@ -6,4 +6,9 @@ Explore different methods to classify credit card data as fraud or not.
  The project will use neural network for detectig frauds. Will use tensorflow library.
  
  
+ # Tools and libraries
+ jupyter notebook
+ Tensorflow
+ Pandas
+ 
 # Results
