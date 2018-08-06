@@ -1,4 +1,4 @@
-# Credit Card FraudD etection
+# Credit Card Fraud Detection
 Explore different methods to classify credit card data as fraud or not.
  The objective to indefity the fraudulent transactions
  
