@@ -5,7 +5,9 @@ Various parts for the project:
 #### Exploring the Data
 #### Building the Neural Network
 #### Visualizing the Data with t-SNE.
-Used tensorflow for building the predictive model. After building the model for visualization and analysis used t-SNE to visualize the dataset in two dimensions . 
+Used tensorflow for building the predictive model. After building the model for visualization and analysis used t-SNE to visualize the dataset in two dimensions.
+
+
 # Algorithms
  The project will use neural network for detectig frauds using tensorflow library.
  
