@@ -16,7 +16,7 @@ Used tensorflow for building the predictive model. After building the model for 
  ### Python
  ### Jupyter notebook
  ### Tensorflow
- ### Pandas
+
  #### 
  
 # Results
