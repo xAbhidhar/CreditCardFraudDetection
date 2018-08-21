@@ -10,7 +10,7 @@ Used tensorflow for building the predictive model. After building the model for 
 # Theory
 
 # Algorithms
- The project will use neural network for detectig frauds using tensorflow library. 
+ The project will use neural network for detecting frauds using tensorflow library. 
  
  
  # Tools and libraries
