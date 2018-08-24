@@ -3,6 +3,7 @@ Explore different methods to classify credit card data as fraud or not. The obje
  
 Various parts for the project:
 #### Exploring the Data
+This step involves data exploratation.
 #### Building the Neural Network
 #### Visualizing the Data with t-SNE.
 Used tensorflow for building the predictive model. After building the model for visualization and analysis used t-SNE to visualize the dataset in two dimensions.
