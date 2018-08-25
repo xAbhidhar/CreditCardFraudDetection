@@ -6,7 +6,7 @@ Various parts for the project:
 This step involves data exploratation.
 #### Building the Neural Network
 #### Visualizing the Data with t-SNE.
-Used tensorflow for building the predictive model. After building the model for visualization and analysis used t-SNE to visualize the dataset in two dimensions.
+Used tensorflow for building the predictive model. After building the model for visualization and analysis used t-SNE to visualize the dataset in two dimensions
 
 # Theory
 
