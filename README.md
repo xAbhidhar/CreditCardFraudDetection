@@ -2,7 +2,7 @@
 Explore different methods to classify credit card data as fraud or not. The objective to indefity the fraudulent transactions
  
 Various parts for the project:
-#### Exploring the Data
+### Exploring the Data
 This step involves data exploratation.
 #### Building the Neural Network
 #### Visualizing the Data with t-SNE.
