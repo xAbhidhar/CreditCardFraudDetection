@@ -19,6 +19,8 @@ Used tensorflow for building the predictive model. After building the model for 
  ### Python
  ### Jupyter notebook
  ### Tensorflow
+ #### Hyperparameters and Optimizations
+ Impletemted adam optimizer.
 
  #### 
  
