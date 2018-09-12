@@ -9,8 +9,7 @@ The data set contains transitions which were processed from various credit cards
 The dataset is highly imbalanced, the fraudulent transactions amounts only to 0.17% of all the transactions processed.
 
 The dataset contains input variables of numerical type which are transformed using Principal Component Analysis. For the confidentiality issues, the source can not provide the original features or any further information regarding the data. The features V1 to V28 are the principal components which are obtained after doing Principal Component Analysis. All the features have been transformed using this method except "time" and "amount". 
-## Acknowledgements
-The data in this dataset was collected with the purpose of analyzing the data during a research. It was a collaborative effort of Worldline and the Machine Learning Group of ULB on big data mining and fraud detection. More details about this and past projects can be found at http://mlg.ulb.ac.be/BruFence and http://mlg.ulb.ac.be/ARTML
+
 
 Various parts for the project:
 ### Exploring the Data
@@ -36,3 +35,7 @@ Used tensorflow for building the predictive model. After building the model for 
  #### 
  
 # Results
+
+
+## Acknowledgements
+The data in this dataset was collected with the purpose of analyzing the data during a research. It was a collaborative effort of Worldline and the Machine Learning Group of ULB on big data mining and fraud detection. More details about this and past projects can be found at http://mlg.ulb.ac.be/BruFence and http://mlg.ulb.ac.be/ARTML
