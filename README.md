@@ -10,6 +10,9 @@ The dataset is highly imbalanced, the fraudulent transactions amounts only to 0.
 
 The dataset contains input variables of numerical type which are transformed using Principal Component Analysis. For the confidentiality issues, the source can not provide the original features or any further information regarding the data. The features V1 to V28 are the principal components which are obtained after doing Principal Component Analysis. All the features have been transformed using this method except "time" and "amount". 
 
+"Time" feature represents the seconds elapsed between the specific transaction and the first transaction.
+"Amount" is the second feature which contains the data for the transaction amount. This is very useful for example dependent cost sensitive learning.
+"Feature" is the response variable of category type. "1" represents fraud and "0" represents no fraud.
 
 Various parts for the project:
 ### Exploring the Data
